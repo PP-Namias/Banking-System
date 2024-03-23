@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\ADMIN\Desktop\PP Namias\Banking System\Banking System\obj\Debug\Banking System.pdb
